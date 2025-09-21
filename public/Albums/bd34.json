@@ -339,5 +339,27 @@
     "album": "Moments In Everglow",
     "numero_de_pista": "12/12",
     "Año": "2025"
+  },
+  {
+    "archivo_musica": "Albums/198274611_1.flac",
+    "descripcion": "198274611",
+    "imagen": "Albums/198274611.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Snowblind",
+    "artista": "Au5 & Tasha Baxter",
+    "album": "Snowblind",
+    "numero_de_pista": "1/1",
+    "Año": "2014"
+  },
+  {
+    "archivo_musica": "Albums/198274612_1.flac",
+    "descripcion": "198274612",
+    "imagen": "Albums/198274612.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Saviour",
+    "artista": "Hoaprox, Yuan & Haneri",
+    "album": "Saviour",
+    "numero_de_pista": "1/1",
+    "Año": "2021"
   }
 ]
